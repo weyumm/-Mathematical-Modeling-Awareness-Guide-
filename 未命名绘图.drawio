@@ -91,6 +91,15 @@
         <mxCell id="pLoZnSfGYqMr7_GIrWkZ-32" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;3，低压输油泵&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="60" x="1282" y="588" as="geometry" />
         </mxCell>
+        <mxCell id="pLoZnSfGYqMr7_GIrWkZ-33" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;4，燃油细滤清网/油水分离器&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="100" x="1120" y="471" as="geometry" />
+        </mxCell>
+        <mxCell id="pLoZnSfGYqMr7_GIrWkZ-34" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;5，低压油管&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="32" width="50" x="1170" y="301" as="geometry" />
+        </mxCell>
+        <mxCell id="pLoZnSfGYqMr7_GIrWkZ-35" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;6，高压油泵&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="38" width="50" x="1095" y="139" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
