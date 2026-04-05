@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="ft3OPsxI84Z6JgQU-l6X">
-    <mxGraphModel dx="934" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1099" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry height="624" width="922" x="40" as="geometry" />
         </mxCell>
         <mxCell id="pLoZnSfGYqMr7_GIrWkZ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;4，ECU&lt;/font&gt;&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="70" x="80" y="320" as="geometry" />
+          <mxGeometry height="30" width="70" x="82" y="476" as="geometry" />
         </mxCell>
         <mxCell id="pLoZnSfGYqMr7_GIrWkZ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;1，带温度传感器的空气流量计&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="110" x="70" y="170" as="geometry" />
@@ -18,6 +18,21 @@
         </mxCell>
         <mxCell id="pLoZnSfGYqMr7_GIrWkZ-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;3，进气压力传感器&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="70" x="390" y="139" as="geometry" />
+        </mxCell>
+        <mxCell id="pLoZnSfGYqMr7_GIrWkZ-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;5，燃油箱&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="26" width="76" x="342" y="462" as="geometry" />
+        </mxCell>
+        <mxCell id="pLoZnSfGYqMr7_GIrWkZ-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;6，电动燃油及支架&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="38" width="70" x="560" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="pLoZnSfGYqMr7_GIrWkZ-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;7，喷油器&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="510" y="147" as="geometry" />
+        </mxCell>
+        <mxCell id="pLoZnSfGYqMr7_GIrWkZ-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;8，发动机转速传感器&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="514" y="417" as="geometry" />
+        </mxCell>
+        <mxCell id="pLoZnSfGYqMr7_GIrWkZ-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#ee7ca4, #572b2b);strokeColor=light-dark(#f38ff5, #babdc0);" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;9，爆震传感器&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="60" x="518" y="293" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
