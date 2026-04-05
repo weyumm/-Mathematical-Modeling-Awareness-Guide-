@@ -13,6 +13,9 @@
         <mxCell id="pLoZnSfGYqMr7_GIrWkZ-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;1，带温度传感器的空气流量计&lt;/font&gt;&lt;/b&gt;" vertex="1">
           <mxGeometry height="40" width="110" x="70" y="170" as="geometry" />
         </mxCell>
+        <mxCell id="pLoZnSfGYqMr7_GIrWkZ-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;2，节气门位置传感器&lt;/font&gt;&lt;/b&gt;" vertex="1">
+          <mxGeometry height="40" width="80" x="240" y="317" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
